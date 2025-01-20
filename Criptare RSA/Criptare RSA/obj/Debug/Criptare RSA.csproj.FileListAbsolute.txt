@@ -1,0 +1,7 @@
+C:\Users\Renata\Desktop\Criptare RSA\Criptare RSA\bin\Debug\Criptare RSA.exe.config
+C:\Users\Renata\Desktop\Criptare RSA\Criptare RSA\bin\Debug\Criptare RSA.exe
+C:\Users\Renata\Desktop\Criptare RSA\Criptare RSA\bin\Debug\Criptare RSA.pdb
+C:\Users\Renata\Desktop\Criptare RSA\Criptare RSA\obj\Debug\Criptare RSA.csproj.AssemblyReference.cache
+C:\Users\Renata\Desktop\Criptare RSA\Criptare RSA\obj\Debug\Criptare RSA.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Desktop\Criptare RSA\Criptare RSA\obj\Debug\Criptare RSA.exe
+C:\Users\Renata\Desktop\Criptare RSA\Criptare RSA\obj\Debug\Criptare RSA.pdb

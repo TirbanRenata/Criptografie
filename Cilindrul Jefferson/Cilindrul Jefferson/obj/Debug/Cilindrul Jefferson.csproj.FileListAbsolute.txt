@@ -1,0 +1,7 @@
+C:\Users\Renata\Desktop\Cilindrul Jefferson\Cilindrul Jefferson\bin\Debug\Cilindrul Jefferson.exe.config
+C:\Users\Renata\Desktop\Cilindrul Jefferson\Cilindrul Jefferson\bin\Debug\Cilindrul Jefferson.exe
+C:\Users\Renata\Desktop\Cilindrul Jefferson\Cilindrul Jefferson\bin\Debug\Cilindrul Jefferson.pdb
+C:\Users\Renata\Desktop\Cilindrul Jefferson\Cilindrul Jefferson\obj\Debug\Cilindrul Jefferson.csproj.AssemblyReference.cache
+C:\Users\Renata\Desktop\Cilindrul Jefferson\Cilindrul Jefferson\obj\Debug\Cilindrul Jefferson.csproj.CoreCompileInputs.cache
+C:\Users\Renata\Desktop\Cilindrul Jefferson\Cilindrul Jefferson\obj\Debug\Cilindrul Jefferson.exe
+C:\Users\Renata\Desktop\Cilindrul Jefferson\Cilindrul Jefferson\obj\Debug\Cilindrul Jefferson.pdb
